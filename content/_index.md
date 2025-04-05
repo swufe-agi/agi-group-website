@@ -8,14 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        SWUFE AGI
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        随着人工智能技术的不断发展，通用人工智能（Artificial General Intelligence, AGI）和金融领域的融合与交叉已成为科研和产业发展的重要趋势。通用人工智能与金融创新团队致力于通过大模型探索AGI技术在金融领域的应用潜力，以及推动人工智能技术与金融行业的创新发展。 
   
   - block: collection
     content:
