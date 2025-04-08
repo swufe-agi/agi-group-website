@@ -59,7 +59,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'zpchen@swufe.edu.cn'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -67,6 +67,11 @@ user_groups:
   - Assistant Professors
 ---
 
-陈中普博士目前是西南财经大学计算机与人工智能学院讲师，研究兴趣主要集中在数据库系统、大模型应用及AI4DB领域。
+陈中普(zpchen@swufe.edu.cn)博士目前是西南财经大学计算机与人工智能学院讲师，研究兴趣主要集中在数据库系统、大模型应用及AI4DB领域。
 
 陈博士在多个国际学术会议和期刊上发布了多篇高水平论文，包括ACM WWW（CCF A）、VLDB (CCF A)、IEEE ICDE（CCF A）、IEEE TKDE（CCF A）等，部分研究成果在工业界得到了应用。
+
+
+## 个人主页
+
+[访问个人主页](https://zhongpu.info)
