@@ -10,7 +10,7 @@ sections:
       title: |
         SWUFE AGI
       image:
-        filename: welcome.jpg
+        filename: AGI.png
       text: |
         <br>
         
@@ -44,7 +44,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: coders.jpg
+          filename: p6.jpg
           filters:
             brightness: 1
           parallax: false
