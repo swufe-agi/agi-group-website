@@ -10,7 +10,7 @@ sections:
       title: |
         SWUFE AGI
       image:
-        filename: AGI.png
+        filename: welcome.jpg
       text: |
         <br>
         

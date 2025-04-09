@@ -72,6 +72,5 @@ user_groups:
 陈博士在多个国际学术会议和期刊上发布了多篇高水平论文，包括ACM WWW（CCF A）、VLDB (CCF A)、IEEE ICDE（CCF A）、IEEE TKDE（CCF A）等，部分研究成果在工业界得到了应用。
 
 
-## 个人主页
 
 [访问个人主页](https://zhongpu.info)

@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 陈星岩
+title: 陈星延
 
 # Full name (for SEO)
 first_name: Xingyan
@@ -19,7 +19,7 @@ role: 副教授，硕士生导师
 # Organizations/Affiliations
 organizations:
   - name: 西南财经大学
-    url: ''
+    url: 'https://uglyghost.github.io/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: 目前主要研究方向为大模型、流媒体数据传输、多智能体强化学习。。
@@ -70,6 +70,8 @@ user_groups:
 陈星延(xychen@swufe.edu.cn)，现任西南财经大学计算机与人工智能学院副教授，2021年毕业于北京邮电大学计算机学院，获得工学博士学位，曾获国家留学基金委公派资格。目前主要研究方向为大模型、流媒体数据传输、多智能体强化学习。
 
 
+[访问个人主页](https://uglyghost.github.io/)
+
 #### 职业经历
 - **2023-至今** 西南财经大学 计算机与人工智能学院 副教授
 - **2021-2023** 西南财经大学 计算机与人工智能学院 讲师
@@ -80,7 +82,7 @@ user_groups:
 - **操作系统**  - 本科生课程
 - **现代技术与人工智能**  - 本科生课程
 - **大学计算机基础**  - 本科生课程
-- **数值分析 **  - 研究生课程
+- **数值分析**  - 研究生课程
 - **强化学习前沿**  - 研究生课程
 
 
