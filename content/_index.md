@@ -5,12 +5,58 @@ date: 2022-10-24
 type: landing
 
 sections:
+  - block: slider
+    content:
+      slides:
+      - title: 👋 欢迎来到 SWUFE AGI 团队
+        content: 依托西财唯一工科实验室，用大模型技术改变世界...
+        align: center
+        background:
+          image:
+            filename: lab.webp
+            filters:
+              brightness: 0.7
+          position: right
+          color: '#666'
+      - title: 科研工作两不误
+        content: '顶会/顶刊论文，大厂实习工作，科研项目，学术交流...'
+        align: left
+        background:
+          image:
+            filename: coders.jpg
+            filters:
+              brightness: 0.7
+          position: center
+          color: '#555'
+      - title: 并肩作战，一起成长 💪
+        content: '从真实问题中学习，培养解决问题的能力和团队合作精神'
+        align: right
+        background:
+          image:
+            filename: welcome.jpg
+            filters:
+              brightness: 0.5
+          position: center
+          color: '#333'
+        link:
+          icon: graduation-cap
+          icon_pack: fas
+          text: 加入我们
+          url: ../contact/
+    design:
+      # Slide height is automatic unless you force a specific height (e.g. '400px')
+      slide_height: ''
+      is_fullscreen: true
+      # Automatically transition through slides?
+      loop: true
+      # Duration of transition between slides (in ms)
+      interval: 2500
   - block: hero
     content:
       title: |
         SWUFE AGI
       image:
-        filename: welcome.jpg
+        filename: AGI.png
       text: |
         <br>
         
@@ -34,26 +80,6 @@ sections:
     design:
       view: card
       columns: '1'
-  
-  - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: p6.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
 
   - block: markdown
     content:
