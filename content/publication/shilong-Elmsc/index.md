@@ -39,7 +39,7 @@ abstract: Latent multi-view subspace clustering has been demonstrated to have de
 # # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: [CCF-A,IEEE]
+tags: [CCF-B,IEEE]
 
 # # Display this page in the Featured widget?
 # featured: true

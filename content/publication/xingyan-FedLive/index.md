@@ -44,7 +44,7 @@ abstract: Providing premium panoramic livecast services to worldwide viewers con
 # # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: [CCF-A,IEEE,中科院大类1区]
+tags: [CCF-B,IEEE,中科院大类1区]
 
 # # Display this page in the Featured widget?
 # featured: true
